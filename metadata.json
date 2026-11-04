@@ -1,0 +1,6 @@
+{
+  "name": "Klinik JB Medical Center Cikarang",
+  "description": "Website resmi Klinik JB Medical Center Cikarang: Layanan Medis 24 Jam, Poli Spesialis, Medical Check-Up (MCU) Karyawan & Industri, Laboratorium Digital, dan Pendaftaran Antrean Online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
